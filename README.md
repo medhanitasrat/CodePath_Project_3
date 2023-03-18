@@ -45,7 +45,7 @@ I have chosen to duplicate the following layout from the Dualingo app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='![Android Project3](https://user-images.githubusercontent.com/58121842/226129356-51bc9732-85e3-4895-9776-a1c474d00280.gif)' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
